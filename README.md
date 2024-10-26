@@ -1,4 +1,4 @@
-![](static/tupy.png)
+![](static/card.png)
 
 # Tupy: A Lightweight Energy Optimization Package for PyTorch (and TinyGrad Soon!)
 
