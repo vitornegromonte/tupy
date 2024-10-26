@@ -4,7 +4,12 @@ Tupy is a streamlined package aimed at optimizing energy consumption for PyTorch
 
 > Tupy comes from *Tupã*, which means "Thunder" in [Tupi](https://en.wikipedia.org/wiki/Tupi_language), the largest indigenous language in Brazil.
 
+### Features
+- Real-time energy monitoring
+- Real-time optimization of energy consumption
+- Support for PyTorch
 
+### Directory Structure
 
 ```
 tupy/
@@ -23,3 +28,8 @@ tupy/
 ├── setup.py
 └── README.md
 ``` 
+
+### Installation
+```python
+pip install tupy
+```
